@@ -5,5 +5,4 @@ import java.util.List;
 
 public interface PoiDao {
     void insert(List<Student> list);
-    void delete(List<Student> list);
 }
